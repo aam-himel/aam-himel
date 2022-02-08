@@ -35,6 +35,6 @@ Trying to get things done!
 [![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/)
 [![Slack](https://img.shields.io/badge/slack-black?style=flat-square&logo=slack)](https://slack.com/)
-[![Todoist](https://img.shields.io/badge/todoist-black?style=flat-square&logo=todoist)](https://todoist.com/)
+[![Todoist](https://img.shields.io/badge/todoist-black?style=flat-square&logo=todoist)](https://todoist.com/) -->
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=aam-himel&theme=react-dark) -->
+![github graph](https://activity-graph.herokuapp.com/graph?username=aam-himel&theme=react-dark)
