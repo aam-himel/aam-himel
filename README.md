@@ -9,11 +9,11 @@
 
 Trying to get things done!
 
-### ⚡ Language I am working with ⚡
+### ⚡ Things I have been working with ⚡
 
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.scala-lang.org/)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
 ### ⚡ Front-End Technologies ⚡
 
@@ -22,7 +22,7 @@ Trying to get things done!
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=171c2d&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
 
-### 🔸 Learning... 🔸
+### 🔸 ------- Learning ----------🔸
 
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
