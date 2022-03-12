@@ -1,6 +1,6 @@
 <!-- Extra Try -->
 
-## Hi there, I am Himel 👋
+## Hi there, I am Abdullah Al Mamun! 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aamhimel/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/aam-himel)
