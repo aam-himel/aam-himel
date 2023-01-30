@@ -13,7 +13,6 @@ Trying to get things done!
 
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.scala-lang.org/)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
 ### ⚡ Front-End Technologies ⚡
 
@@ -24,7 +23,6 @@ Trying to get things done!
 
 ### 🔸 ------- Learning ----------🔸
 
-[![Kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 
