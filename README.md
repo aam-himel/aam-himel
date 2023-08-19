@@ -11,8 +11,9 @@ Trying to get things done!
 
 ### ⚡ Things I have been working with ⚡
 
+[![Nestjs](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.scala-lang.org/)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/)
+
 
 ### ⚡ Front-End Technologies ⚡
 
