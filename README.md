@@ -11,13 +11,12 @@ Trying to get things done!
 
 ### ⚡ Things I have been working with ⚡
 
-[![Nestjs](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
-[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.scala-lang.org/)
+[![Astro](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=astro)](https://astro.build/)
+[![Angular](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=angular)](https://angular.dev/)
 
 
 ### ⚡ Front-End Technologies ⚡
-
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![Astro](https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=fff&logo=astro&logoColor=000&label=)
 ![React App](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=0000cf&logo=Create+React+App&logoColor=09D3AC&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=171c2d&logo=Tailwind+CSS&logoColor=FFFFFF&label=)
