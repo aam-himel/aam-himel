@@ -1,68 +1,63 @@
-## Hi, I’m Abdullah Al Mamun 👋  
-Frontend Engineer • React • Flutter • UI Performance Enthusiast
+## Abdullah Al Mamun
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat&logo=linkedin)](https://www.linkedin.com/in/aam-himel)
-[![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)](https://github.com/aam-himel)
-[![Dribbble](https://img.shields.io/badge/Dribbble-111?style=flat&logo=dribbble)](https://dribbble.com/aamHimel)
-[![Email](https://img.shields.io/badge/Email-111?style=flat&logo=gmail)](mailto:aam.himel@gmail.com)
+Software engineer. Building apps for Muslims at [MamunLabs](https://mamunlabs.dev).
 
----
-
-### About Me
-
-I’m a **Frontend Engineer at MyAlice**, focused on building **fast, clean, and delightful web experiences** where design and engineering work together.
-
-I enjoy turning complex ideas into **simple, intuitive interfaces** — with attention to performance, animation flow, and interaction details.
-
-Outside my full-time role, I love crafting:
-- Landing pages & marketing sites  
-- Micro-SaaS frontends
-- Single feature mobile apps  
-- Experimental UI & motion-driven interfaces  
-
-I believe great frontend work isn’t just about code.  
-It’s about **how fast a site feels**, **how smooth it moves**, and **how confident it makes the user feel**.
-
-If you’re a founder, designer, or creator looking to bring an idea to life — let’s connect.
+[![Website](https://img.shields.io/badge/mamunlabs.dev-111?style=flat&logo=astro)](https://mamunlabs.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat&logo=linkedin)](https://www.linkedin.com/in/aamhimel)
+[![dev.to](https://img.shields.io/badge/dev.to-111?style=flat&logo=devdotto)](https://dev.to/aamhimel)
+[![Email](https://img.shields.io/badge/Email-111?style=flat&logo=gmail)](mailto:dev.aamhimel@gmail.com)
 
 ---
 
-### Tech I Work With
+### About
 
-**Frontend**
-- React, Next.js, Astro  
-- Tailwind CSS, CSS Animations  
-- Component-driven UI systems  
+Every category has products people love. Meditation has Headspace. Language
+has Duolingo. Running has Strava. Muslims mostly get apps that shipped years
+ago, with a banner ad sitting next to the name of Allah.
 
-**Mobile**
-- Flutter (cross-platform apps)
+The problem isn't features — those arrived years ago. The gap is **product**.
 
-**Design → Code**
-- Figma → Production UI  
-- Design systems & theming  
+**MamunLabs** is where I close it: English-first mobile apps for Muslim daily
+life, built to the standard every other category treats as the baseline.
+Sometimes that means something new. More often it means taking a product
+pattern that already works brilliantly and building the version Muslims
+never got.
+
+By day I'm a software engineer at **Revora**, working on a live SaaS product
+in React and moving our mobile app to React Native. Five years of frontend
+before that, including Bdjobs.
+
+---
+
+### Tech
+
+**Mobile** — React Native, Expo, TypeScript, Skia, MMKV  
+**Web** — React, Next.js, Astro, Tailwind CSS  
+**Design → code** — Figma to production UI, design systems, theming
 
 ---
 
 ### Experience
 
-**Software Engineer — MyAlice**  
-*Oct 2024 – Present · Dhaka, Bangladesh*  
-- Building and scaling frontend features using **React & Tailwind CSS**  
-- Working closely with product and design to ship high-impact UI  
-- Focus on performance, reusability, and clean architecture  
+**Software Engineer — Revora** *(formerly MyAlice)*  
+*Oct 2024 – Present · Dhaka, Bangladesh*
+- Frontend for a live SaaS product in React and TypeScript
+- Moving the production mobile app from Flutter to React Native
+- Reusable component architecture, performance, shipping against real constraints
 
-**Frontend Developer — Bdjobs.com**  
-*May 2023 – Sep 2024 · Dhaka, Bangladesh*  
-- Worked on Bangladesh’s largest job portal  
-- Developed production-grade UI used by millions of users  
-- Strong focus on frontend performance and maintainability  
+**Frontend Developer — Bdjobs.com Ltd.**  
+*May 2023 – Sep 2024 · Dhaka, Bangladesh*
+- Production UI on Bangladesh's largest employment platform
+- High-traffic pages, performance and maintainability
+
+---
+
+### Now
+
+- **MamunLabs** — mobile apps for Muslim daily life, one at a time
+- React Native migration of a production Flutter app
+- Writing up the things that broke, and how they were fixed
 
 ---
 
-### Current Focus
-- High-performance React apps  
-- Reusable UI systems  
-- Flutter for fast MVPs  
-- Clean animations & micro-interactions  
-
----
+📬 **dev.aamhimel@gmail.com** — open to conversations about mobile work.
